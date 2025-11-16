@@ -14,6 +14,8 @@
             Unlock the full value of your data with expert ETL, automation, and
             integration consulting. We design scalable pipelines, unify systems,
             and help you make data-driven decisions faster.
+            <br><br>
+            Man we desparately need some creative inspiration of some kind, this is some soulless dogshit as it currently stands.
             </p>
 
             <div class="mt-10 flex justify-center space-x-4">
@@ -91,13 +93,7 @@
             Partner with us to modernize your data workflows, improve reliability,
             and gain insights that drive smarter decisions.
             </p>
-
-            <a
-            href="#"
-            class="inline-block mt-10 px-10 py-4 bg-indigo-600 text-white font-semibold rounded-lg shadow hover:bg-indigo-500 transition"
-            >
-            Schedule a Consultation
-            </a>
+            <RouterLink to="/consultation" class="inline-block mt-10 px-10 py-4 bg-indigo-600 text-white font-semibold rounded-lg shadow hover:bg-indigo-500 transition">Schedule a Consultation</RouterLink>
         </div>
         </section>
   </div>
