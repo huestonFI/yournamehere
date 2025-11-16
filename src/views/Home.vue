@@ -7,17 +7,32 @@
         <section class="bg-indigo-600 text-white py-24">
         <div class="max-w-7xl mx-auto px-6 text-center">
             <h2 class="text-4xl md:text-5xl font-bold leading-tight">
-            Smarter Data Integration for Modern Businesses
+            Thirty Day Plan
             </h2>
 
             <p class="mt-6 text-lg md:text-xl max-w-3xl mx-auto text-indigo-100">
-            Unlock the full value of your data with expert ETL, automation, and
-            integration consulting. We design scalable pipelines, unify systems,
-            and help you make data-driven decisions faster.
-            <br><br>
-            Man we desparately need some creative inspiration of some kind, this is some soulless dogshit as it currently stands.
+            Make creative decisions (branding, colors, no more emojis as the only images on the entire site)
+            <br>
+            Implement creative decisions on this site so it's looking less lame
+            <br>
+            Add an actual domain name
+            <br>
+            Figure out how we're supposed to reach people
+            <br>
+            Build a backend so we can fire Formspree (might be required, Formspree's thank you page sucks)
             </p>
+            <!--
+                actual hero stuff
+                <h2 class="text-4xl md:text-5xl font-bold leading-tight">
+                Smarter Data Integration for Modern Businesses
+                </h2>
 
+                <p class="mt-6 text-lg md:text-xl max-w-3xl mx-auto text-indigo-100">
+                Unlock the full value of your data with expert ETL, automation, and
+                integration consulting. We design scalable pipelines, unify systems,
+                and help you make data-driven decisions faster.            
+                </p>
+            -->
             <div class="mt-10 flex justify-center space-x-4">
             <RouterLink
                 to="/consultation"
