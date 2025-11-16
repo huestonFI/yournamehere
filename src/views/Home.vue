@@ -21,10 +21,11 @@
             <br>
             Add an actual domain name
             <br>
-            Figure out how we're supposed to reach people
-            <br>
             Build a backend so we can fire Formspree (might be required, Formspree's thank you page sucks)
             </p>
+            <h1 class="text-4xl md:text-5xl font-bold leading-tight">
+                Figure out how we're supposed to reach people lmao
+            </h1>
             <!--
                 actual hero stuff
                 <h2 class="text-4xl md:text-5xl font-bold leading-tight">
