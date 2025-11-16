@@ -7,7 +7,7 @@
       </h1>
 
       <p class="text-gray-700 text-lg mb-6">
-        We've received your submission and will get back to you shortly.
+        This page is not used until we build a real backend or pay a fee to Formspree.
       </p>
 
       <router-link

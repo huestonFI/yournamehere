@@ -19,19 +19,18 @@
             </p>
 
             <div class="mt-10 flex justify-center space-x-4">
-            <a
-                href="#"
+            <RouterLink
+                to="/consultation"
                 class="px-8 py-3 bg-white text-indigo-700 font-semibold rounded-lg shadow hover:bg-indigo-100 transition"
             >
                 Get a Free Consultation
-            </a>
-
-            <a
-                href="#"
+            </RouterLink>
+            <RouterLink 
+                to="/services" 
                 class="px-8 py-3 bg-indigo-500 border border-white font-semibold rounded-lg hover:bg-indigo-400 transition"
             >
                 Learn More
-            </a>
+            </RouterLink>
             </div>
         </div>
         </section>
