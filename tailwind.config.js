@@ -1,6 +1,6 @@
 export default {
   content: [
-    "./index.html",
+    "./views/index.html",
     "./src/**/*.{html,js,vue,ts,jsx,tsx}"
   ],
   theme: {
