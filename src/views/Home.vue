@@ -13,6 +13,10 @@
             <p class="mt-6 text-lg md:text-xl max-w-3xl mx-auto text-indigo-100">
             Make creative decisions (branding, colors, no more emojis as the only images on the entire site)
             <br>
+            Get CEO a github account if he wants to help with the coding
+            <br>
+            Privatize the repo (does this cost money?)
+            <br>
             Implement creative decisions on this site so it's looking less lame
             <br>
             Add an actual domain name
